@@ -1,0 +1,11 @@
+{
+  "name": "typescript-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jesper Orb <jesperorb@gmail.com> (https://jesperorb.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-plugin-typescript": "1.0.0",
+    "typescript": "2.9.2"
+  }
+}
